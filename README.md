@@ -5,7 +5,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [클래스/상속](https://gym-developer.tistory.com/21) | [상속/인터페이스](https://gym-developer.tistory.com/22) | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) |
+| [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [상속](https://gym-developer.tistory.com/21) | [인터페이스](https://gym-developer.tistory.com/22) | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) |
 
 | 8일 차 |
 |---|
@@ -19,7 +19,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/부분집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [해시/트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [다익스트라](https://gym-developer.tistory.com/35) |
+| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [해시/트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [다익스트라](https://gym-developer.tistory.com/35) |
 
 | 8일 차 | 9일 차 | 10일 차 | 11일 차 | 12일 차 | 13일 차 |
 |---|---|---|---|---|---|
