@@ -19,7 +19,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [해시/트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [휴가](https://gym-developer.tistory.com/35) |
+| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [휴가](https://gym-developer.tistory.com/35) |
 
 | 8일 차 | 9일 차 | 10일 차 | 11일 차 | 12일 차 | 13일 차 |
 |---|---|---|---|---|---|
