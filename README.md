@@ -5,7 +5,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [자바기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [클래스/상속](https://gym-developer.tistory.com/21) | [상속/인터페이스](https://gym-developer.tistory.com/22) | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) |
+| [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [클래스/상속](https://gym-developer.tistory.com/21) | [상속/인터페이스](https://gym-developer.tistory.com/22) | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) |
 
 | 8일 차 |
 |---|
@@ -19,11 +19,11 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [알고리즘](https://gym-developer.tistory.com/28) | [알고리즘](https://gym-developer.tistory.com/29) | [알고리즘](https://gym-developer.tistory.com/30) | [알고리즘](https://gym-developer.tistory.com/31) | [알고리즘초](https://gym-developer.tistory.com/33) | [알고리즘](https://gym-developer.tistory.com/34) | [알고리즘](https://gym-developer.tistory.com/35) |
+| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/부분집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [해시/트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [다익스트라](https://gym-developer.tistory.com/35) |
 
 | 8일 차 | 9일 차 | 10일 차 | 11일 차 | 12일 차 | 13일 차 |
 |---|---|---|---|---|---|
-| [알고리즘](https://gym-developer.tistory.com/36) | [알고리즘](https://gym-developer.tistory.com/47) | [알고리즘](https://gym-developer.tistory.com/49) | [알고리즘](https://gym-developer.tistory.com/51) | [알고리즘](https://gym-developer.tistory.com/52) | [알고리즘](https://gym-developer.tistory.com/27) |
+| [백트래킹](https://gym-developer.tistory.com/36) | [시뮬레이션](https://gym-developer.tistory.com/47) | [동적 계획법](https://gym-developer.tistory.com/49) | [문제 풀기1](https://gym-developer.tistory.com/51) | [문제 풀기2](https://gym-developer.tistory.com/52) | [문제 풀기3](https://gym-developer.tistory.com/55) |
 
 </br>
 
@@ -31,13 +31,9 @@
 > RDBMS, SQL의 기본 개념을 이해하고, 데이터베이스 구조를 학습합니다.  
 > 25.01.25 ~ 25.03.04
 
-| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
-|---|---|---|---|---|---|---|
-| [자바 기초](https://gym-developer.tistory.com/15) | [자바 기초](https://gym-developer.tistory.com/17) | [자바 기초](https://gym-developer.tistory.com/18) | [자바 기초](https://gym-developer.tistory.com/21) | [자바 기초](https://gym-developer.tistory.com/22) | [자바 기초](https://gym-developer.tistory.com/25) | [자바 기초](https://gym-developer.tistory.com/26) |
-
-| 8일 차 | 9일 차 | 10일 차 | 11일 차 | 12일 차 | 13일 차 |
-|---|---|---|---|---|---|
-| [자바 기초](https://gym-developer.tistory.com/27) | [자바 기초](https://gym-developer.tistory.com/27) | [자바 기초](https://gym-developer.tistory.com/27) | [자바 기초](https://gym-developer.tistory.com/27) | [자바 기초](https://gym-developer.tistory.com/27) | [자바 기초](https://gym-developer.tistory.com/55) |
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
+|---|---|---|---|---|
+| [DB 기초](https://gym-developer.tistory.com/56) | [데이터 조작어](https://gym-developer.tistory.com/57) | [부속질의](https://gym-developer.tistory.com/58) | [내장함수/뷰/인덱스](https://gym-developer.tistory.com/59) | [데이터 모델링/정규화](https://gym-developer.tistory.com/60) |
 
 </br>
 
