@@ -53,7 +53,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [트랜잭션](https://gym-developer.tistory.com/65) | [공통코드](https://gym-developer.tistory.com/66) | [MyBatis](https://gym-developer.tistory.com/69) |  |  |
+| [트랜잭션](https://gym-developer.tistory.com/65) | [공통코드](https://gym-developer.tistory.com/66) | [MyBatis](https://gym-developer.tistory.com/69) | [JPA](https://gym-developer.tistory.com/70) |  |
 
 </br>
 
