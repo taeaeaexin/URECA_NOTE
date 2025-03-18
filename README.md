@@ -65,7 +65,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 |
 |---|---|---|
-| [HTML/CSS](https://gym-developer.tistory.com/72) |  |  |
+| [HTML](https://gym-developer.tistory.com/72) | [CSS](https://gym-developer.tistory.com/73) |  |
 
 </br>
 
