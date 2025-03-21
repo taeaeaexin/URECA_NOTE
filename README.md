@@ -75,7 +75,7 @@
 
 | 1일 차 | 2일 차 |
 |---|---|
-| [Git 기초](https://gym-developer.tistory.com/75) |  |
+| [Git 기초](https://gym-developer.tistory.com/75) | [Git 기초](https://gym-developer.tistory.com/76) |
 
 </br>
 
