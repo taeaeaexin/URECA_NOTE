@@ -95,7 +95,7 @@
 
 | 1일 차 |
 |---|
-| [](https://gym-developer.tistory.com/78) |
+| [HTTP](https://gym-developer.tistory.com/78) |
 
 </br>
 
