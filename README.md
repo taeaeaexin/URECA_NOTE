@@ -95,7 +95,7 @@
 
 | 1일 차 | 2일 차 |
 |---|---|
-| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [MVC](https://gym-developer.tistory.com/79) |
+| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) |
 
 </br>
 
