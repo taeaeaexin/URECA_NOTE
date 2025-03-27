@@ -93,9 +93,9 @@
 > Spring Framework의 구조를 이해하고, 안정적인 구조로 Backend를 설계하는 방법을 학습합니다.  
 > 25.03.25 ~ 25.04.17
 
-| 1일 차 | 2일 차 |
-|---|---|
-| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) |
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
+|---|---|---|---|---|---|---|
+| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) |
 
 </br>
 
