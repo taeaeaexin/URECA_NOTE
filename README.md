@@ -95,7 +95,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
 |---|---|---|---|---|---|---|
-| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) | [DI/AOP](https://gym-developer.tistory.com/81) | [Ajax](https://gym-developer.tistory.com/82) | [MVC DB](https://gym-developer.tistory.com/83) |
+| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) | [DI/AOP](https://gym-developer.tistory.com/81) | [Ajax](https://gym-developer.tistory.com/82) | [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/83) |
 
 </br>
 
