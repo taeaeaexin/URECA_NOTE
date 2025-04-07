@@ -103,7 +103,7 @@
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
-| [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/85) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/86) | [](https://gym-developer.tistory.com/87) |
+| [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/85) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/86) | [9](https://gym-developer.tistory.com/87) |
 
 </br>
 
