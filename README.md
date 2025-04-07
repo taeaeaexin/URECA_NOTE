@@ -3,13 +3,13 @@
 > 객체지향의 개념과 SW 디자인 설계의 원칙을 이해하고 JAVA 언어를 활용하여 학습합니다.  
 > 25.01.20 ~ 25.02.04
 
-| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
-|---|---|---|---|---|---|---|
-| [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [상속](https://gym-developer.tistory.com/21) | [인터페이스](https://gym-developer.tistory.com/22) | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) |
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
+|---|---|---|---|---|
+| [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [상속](https://gym-developer.tistory.com/21) | [인터페이스](https://gym-developer.tistory.com/22) |
 
-| 8일 차 |
-|---|
-| [람다/데이터 입출력/디자인 패턴](https://gym-developer.tistory.com/27) |
+| 6일 차 | 7일 차 | 8일 차 |
+|---|---|---|
+| [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) | [람다/데이터 입출력/디자인 패턴](https://gym-developer.tistory.com/27) |
 
 </br>
 
@@ -17,13 +17,17 @@
 > 자료구조와 알고리즘을 이해하고 문제해결 능력을 함양합니다.  
 > 25.02.05 ~ 25.02.24
 
-| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
-|---|---|---|---|---|---|---|
-| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [휴가](https://gym-developer.tistory.com/35) |
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
+|---|---|---|---|---|
+| [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) |
 
-| 8일 차 | 9일 차 | 10일 차 | 11일 차 | 12일 차 | 13일 차 |
-|---|---|---|---|---|---|
-| [백트래킹](https://gym-developer.tistory.com/36) | [시뮬레이션](https://gym-developer.tistory.com/47) | [동적 계획법](https://gym-developer.tistory.com/49) | [문제 풀기1](https://gym-developer.tistory.com/51) | [문제 풀기2](https://gym-developer.tistory.com/52) | [문제 풀기3](https://gym-developer.tistory.com/55) |
+| 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
+|---|---|---|---|---|
+| [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [휴가](https://gym-developer.tistory.com/35) | [백트래킹](https://gym-developer.tistory.com/36) | [시뮬레이션](https://gym-developer.tistory.com/47) | [동적 계획법](https://gym-developer.tistory.com/49) |
+
+| 11일 차 | 12일 차 | 13일 차 |
+|---|---|---|
+| [문제 풀기1](https://gym-developer.tistory.com/51) | [문제 풀기2](https://gym-developer.tistory.com/52) | [문제 풀기3](https://gym-developer.tistory.com/55) |
 
 </br>
 
@@ -93,9 +97,13 @@
 > Spring Framework의 구조를 이해하고, 안정적인 구조로 Backend를 설계하는 방법을 학습합니다.  
 > 25.03.25 ~ 25.04.17
 
-| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 | 6일 차 | 7일 차 |
-|---|---|---|---|---|---|---|
-| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) | [DI/AOP](https://gym-developer.tistory.com/81) | [Ajax](https://gym-developer.tistory.com/82) | [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/85) | [SpringBoot DB Mybatis + Ajax]([https://gym-developer.tistory.com/83](https://gym-developer.tistory.com/86)) |
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
+|---|---|---|---|---|
+| [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) | [DI/AOP](https://gym-developer.tistory.com/81) | [Ajax](https://gym-developer.tistory.com/82) |
+
+| 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
+|---|---|---|---|---|
+| [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/85) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/86) | [](https://gym-developer.tistory.com/87) |
 
 </br>
 
