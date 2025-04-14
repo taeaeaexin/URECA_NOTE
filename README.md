@@ -107,7 +107,7 @@
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
 |---|---|---|---|---|
-| [MVC DB+Ajax](https://gym-developer.tistory.com/89) | [조회수/Pagination/Transaction/Exception Handling](https://gym-developer.tistory.com/90) | [JPA](https://gym-developer.tistory.com/91) |  |  |
+| [MVC DB+Ajax](https://gym-developer.tistory.com/89) | [조회수/Pagination/Transaction/Exception Handling](https://gym-developer.tistory.com/90) | [JPA](https://gym-developer.tistory.com/91) | [](https://gym-developer.tistory.com/92) |  |
 
  | 14일 차 | 15일 차 |
  |---|---|
