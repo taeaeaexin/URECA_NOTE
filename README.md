@@ -111,7 +111,7 @@
 
  | 14일 차 | 15일 차 |
  |---|---|
- | [JPQL(select/N+1/JPQL(join subquery)](https://gym-developer.tistory.com/94) |  |
+ | [JPQL(select/N+1/JPQL(join subquery)](https://gym-developer.tistory.com/94) | [JPQL Subquery/Order/Native Query](https://gym-developer.tistory.com/95) |
  
  
 </br>
