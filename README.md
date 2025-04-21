@@ -122,7 +122,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [](https://gym-developer.tistory.com/97) |  |  |  |  |
+| [Page(HTML), Json, Cors](https://gym-developer.tistory.com/97) |  |  |  |  |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
