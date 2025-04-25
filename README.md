@@ -122,7 +122,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [Page(HTML), Json, CORS](https://gym-developer.tistory.com/97) | [Lombok, Spring Data JPA](https://gym-developer.tistory.com/98) | [JPA HTML Login](https://gym-developer.tistory.com/99) |  |  |
+| [Page(HTML), Json, CORS](https://gym-developer.tistory.com/97) | [Lombok, Spring Data JPA](https://gym-developer.tistory.com/98) | [JPA HTML Login](https://gym-developer.tistory.com/99) | [HTML Register/JPQL DT](https://gym-developer.tistory.com/101)  |  |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
@@ -139,6 +139,10 @@
 ## 12. 취업 특강2
 > 취업을 위한 서류 작성 방법과 면접 전형 전략을 공유하고 토론합니다.  
 > 25.04.24
+
+| 1일 차 |
+|---|
+| [취업 특강2](https://gym-developer.tistory.com/100) |
 
 </br>
 
