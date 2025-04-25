@@ -122,7 +122,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [Page(HTML)/Json/CORS](https://gym-developer.tistory.com/97) | [Lombok/Spring Data JPA](https://gym-developer.tistory.com/98) | [HTML Login](https://gym-developer.tistory.com/99) | [HTML Register/JPQL DT](https://gym-developer.tistory.com/101)  |  |
+| [Page(HTML)/Json/CORS](https://gym-developer.tistory.com/97) | [Lombok/Spring Data JPA](https://gym-developer.tistory.com/98) | [HTML Login](https://gym-developer.tistory.com/99) | [HTML Register/JPQL DTO](https://gym-developer.tistory.com/101)  |  |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
