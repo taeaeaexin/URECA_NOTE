@@ -126,7 +126,7 @@
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
-| [ResponseEntity/Swagger](https://gym-developer.tistory.com/103) | [ResponseEntity/Swagger](https://gym-developer.tistory.com/104) |  |  |  |
+| [ResponseEntity/Swagger](https://gym-developer.tistory.com/103) | [JUnit](https://gym-developer.tistory.com/104) |  |  |  |
 
 </br>
 
