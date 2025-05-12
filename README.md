@@ -146,7 +146,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [프로젝트 진행](https://gym-developer.tistory.com/108) | [프로젝트 진행](https://gym-developer.tistory.com/109) |  |  |  |
+| [프로젝트 진행](https://gym-developer.tistory.com/108) | [프로젝트 진행](https://gym-developer.tistory.com/109) | [프로젝트 진행](https://gym-developer.tistory.com/110) |  |  |
 
 | 6일 차 | 7일 차 |
 |---|---|
