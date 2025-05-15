@@ -150,7 +150,7 @@
 
 | 6일 차 | 7일 차 |
 |---|---|
-|  |  |
+|  [프로젝트 진행](https://gym-developer.tistory.com/113) |  |
 
 </br>
 
