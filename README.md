@@ -146,11 +146,11 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [프로젝트 진행](https://gym-developer.tistory.com/108) | [프로젝트 진행](https://gym-developer.tistory.com/109) | [프로젝트 진행](https://gym-developer.tistory.com/110) | [프로젝트 진행](https://gym-developer.tistory.com/111) | [프로젝트 진행](https://gym-developer.tistory.com/112) |
+| [기획안 작성 및 화면 설계](https://gym-developer.tistory.com/108) | [Entity, Controller, Service 구현](https://gym-developer.tistory.com/109) | [무한 스크롤 구현](https://gym-developer.tistory.com/110) | [관리자 페이지 작업](https://gym-developer.tistory.com/111) | [테스트 코드 작성](https://gym-developer.tistory.com/112) |
 
 | 6일 차 | 7일 차 |
 |---|---|
-|  [프로젝트 진행](https://gym-developer.tistory.com/113) |  |
+| [테스트 코드 작성 및 최종 문서 작성](https://gym-developer.tistory.com/113) | [마무리](https://gym-developer.tistory.com/114) |
 
 </br>
 
