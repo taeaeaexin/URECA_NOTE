@@ -162,7 +162,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [](https://gym-developer.tistory.com/115) | []() | []() | []() | []() |
+| [Class Diagram](https://gym-developer.tistory.com/115) | [Use Case/Sequence Diagram](https://gym-developer.tistory.com/116) | []() | []() | []() |
 
 
 </br>
