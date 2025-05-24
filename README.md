@@ -162,7 +162,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [Class Diagram](https://gym-developer.tistory.com/115) | [Use Case/Sequence Diagram](https://gym-developer.tistory.com/116) | [공통 코드](https://gym-developer.tistory.com/117) | [공통 코드](https://gym-developer.tistory.com/118) | []() |
+| [Class Diagram](https://gym-developer.tistory.com/115) | [Use Case/Sequence Diagram](https://gym-developer.tistory.com/116) | [공통 코드](https://gym-developer.tistory.com/117) | [공통 코드](https://gym-developer.tistory.com/118) | [디자인 패턴, Slack API](https://gym-developer.tistory.com/118) |
 
 
 </br>
