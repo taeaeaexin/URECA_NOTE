@@ -173,7 +173,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [요구사항 정의서](https://gym-developer.tistory.com/122) | [요구사항 명세서](https://gym-developer.tistory.com/123) | [프로그램 정의서](https://gym-developer.tistory.com/124) | []() | []() |
+| [요구사항 정의서](https://gym-developer.tistory.com/122) | [요구사항 명세서](https://gym-developer.tistory.com/123) | [프로그램 정의서](https://gym-developer.tistory.com/124) | [휴가](https://gym-developer.tistory.com/125) | []() |
 
 
 </br>
