@@ -4,7 +4,7 @@
 
 <br>
 
-## 1. 소프트웨어 엔지니어링
+## 1. [소프트웨어 엔지니어링](https://github.com/taeaeaexin/URECA_NOTE/blob/main/01%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md)
 > 객체지향의 개념과 SW 디자인 설계의 원칙을 이해하고 JAVA 언어를 활용하여 학습합니다.  
 > 25.01.20 ~ 25.02.04
 
