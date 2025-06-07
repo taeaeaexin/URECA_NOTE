@@ -188,7 +188,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |---|---|---|---|---|
-| [종합 프로젝트](https://gym-developer.tistory.com/131) | [종합 프로젝트](https://gym-developer.tistory.com/132) | [종합 프로젝트](https://gym-developer.tistory.com/133) | []() | []() |
+| [프로젝트 분석](https://gym-developer.tistory.com/131) | [프로젝트 설계](https://gym-developer.tistory.com/132) | [개발 환경 세팅](https://gym-developer.tistory.com/133) | []() | []() |
 
 </br>
 
