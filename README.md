@@ -190,6 +190,10 @@
 |---|---|---|---|---|
 | [프로젝트 분석](https://gym-developer.tistory.com/131) | [프로젝트 설계](https://gym-developer.tistory.com/132) | [개발 환경 세팅](https://gym-developer.tistory.com/133) | [스프린트 week2](https://gym-developer.tistory.com/134) | [개발](https://gym-developer.tistory.com/135) |
 
+| 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
+|---|---|---|---|---|
+| [개발](https://gym-developer.tistory.com/136) | [개발](https://gym-developer.tistory.com/137) | [개발 & 멘토링]() | []() | []() |
+
 </br>
 
 ## 16. 클라우드 특강
