@@ -192,7 +192,7 @@
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |---|---|---|---|---|
-| [개발](https://gym-developer.tistory.com/136) | [개발](https://gym-developer.tistory.com/137) | [개발 & 멘토링]() | []() | []() |
+| [개발](https://gym-developer.tistory.com/136) | [개발](https://gym-developer.tistory.com/137) | [개발 & 멘토링](https://gym-developer.tistory.com/138) | [개발](https://gym-developer.tistory.com/139) | []() |
 
 </br>
 
