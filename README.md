@@ -196,7 +196,7 @@
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
 |---|---|---|---|---|
-| [취합](https://gym-developer.tistory.com/141) | [자료 정리](https://gym-developer.tistory.com/142) | [자료 정리](https://gym-developer.tistory.com/143) | [자료 정리/제출]() | [발표/시상]() |
+| [취합](https://gym-developer.tistory.com/141) | [자료 정리](https://gym-developer.tistory.com/142) | [자료 정리](https://gym-developer.tistory.com/143) | [정리/제출]() | [발표/시상]() |
 
 </br>
 
