@@ -206,7 +206,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 |
 |---|---|---|
-| [클라우드 특강](https://gym-developer.tistory.com/147) | [클라우드 특강 (휴가)](https://gym-developer.tistory.com/148) | []() |
+| [클라우드 특강](https://gym-developer.tistory.com/147) | [클라우드 특강 (휴가)](https://gym-developer.tistory.com/148) | [클라우드 특강](https://gym-developer.tistory.com/149) |
 
 </br>
 
