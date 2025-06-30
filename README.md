@@ -9,11 +9,11 @@
 > 25.01.20 ~ 25.02.04
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [자바 기초](https://gym-developer.tistory.com/15) | [연산자](https://gym-developer.tistory.com/17) | [참조/클래스](https://gym-developer.tistory.com/18) | [상속](https://gym-developer.tistory.com/21) | [인터페이스](https://gym-developer.tistory.com/22) |
 
 | 6일 차 | 7일 차 | 8일 차 |
-|---|---|---|
+|:---:|:---:|:---:|
 | [중첩/예외처리](https://gym-developer.tistory.com/25) | [제네릭/컬렉션 자료구조/람다](https://gym-developer.tistory.com/26) | [람다/데이터 입출력/디자인 패턴](https://gym-developer.tistory.com/27) |
 
 </br>
@@ -23,15 +23,15 @@
 > 25.02.05 ~ 25.02.24
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [알고리즘 기초](https://gym-developer.tistory.com/28) | [순열/조합/집합](https://gym-developer.tistory.com/29) | [스택/큐](https://gym-developer.tistory.com/30) | [트리](https://gym-developer.tistory.com/31) | [분할정복/그리디](https://gym-developer.tistory.com/33) |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [유니온파인드/그래프](https://gym-developer.tistory.com/34) | [휴가](https://gym-developer.tistory.com/35) | [백트래킹](https://gym-developer.tistory.com/36) | [시뮬레이션](https://gym-developer.tistory.com/47) | [동적 계획법](https://gym-developer.tistory.com/49) |
 
 | 11일 차 | 12일 차 | 13일 차 |
-|---|---|---|
+|:---:|:---:|:---:|
 | [문제 풀기1](https://gym-developer.tistory.com/51) | [문제 풀기2](https://gym-developer.tistory.com/52) | [문제 풀기3](https://gym-developer.tistory.com/55) |
 
 </br>
@@ -41,7 +41,7 @@
 > 25.01.25 ~ 25.03.04
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [DB 기초](https://gym-developer.tistory.com/56) | [데이터 조작어](https://gym-developer.tistory.com/57) | [부속질의](https://gym-developer.tistory.com/58) | [내장함수/뷰/인덱스](https://gym-developer.tistory.com/59) | [데이터 모델링/정규화](https://gym-developer.tistory.com/60) |
 
 </br>
@@ -51,7 +51,7 @@
 > 25.03.05 ~ 25.03.07
 
 | 1일 차 | 2일 차 | 3일 차 |
-|---|---|---|
+|:---:|:---:|:---:|
 | [프로젝트 1일 차](https://gym-developer.tistory.com/61) | [프로젝트 2일 차](https://gym-developer.tistory.com/63) | [프로젝트 3일 차](https://gym-developer.tistory.com/64) |
 
 </br>
@@ -61,7 +61,7 @@
 > 25.03.10 ~ 25.03.14
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [트랜잭션](https://gym-developer.tistory.com/65) | [공통코드](https://gym-developer.tistory.com/66) | [MyBatis](https://gym-developer.tistory.com/69) | [JPA](https://gym-developer.tistory.com/70) | [MongoDB](https://gym-developer.tistory.com/71) |
 
 </br>
@@ -73,7 +73,7 @@
 > 25.03.17 ~ 25.03.19
 
 | 1일 차 | 2일 차 | 3일 차 |
-|---|---|---|
+|:---:|:---:|:---:|
 | [HTML](https://gym-developer.tistory.com/72) | [CSS/JS](https://gym-developer.tistory.com/73) | [Bootstrap](https://gym-developer.tistory.com/74) |
 
 </br>
@@ -83,7 +83,7 @@
 > 25.03.20 ~ 25.03.21
 
 | 1일 차 | 2일 차 |
-|---|---|
+|:---:|:---:|
 | [Git 기초](https://gym-developer.tistory.com/75) | [Git 기초](https://gym-developer.tistory.com/76) |
 
 </br>
@@ -93,7 +93,7 @@
 > 25.03.24
 
 | 1일 차 |
-|---|
+|:---:|
 | [취업 특강](https://gym-developer.tistory.com/77) |
 
 </br>
@@ -103,19 +103,19 @@
 > 25.03.25 ~ 25.04.17
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [HTTP/Servlet/JSP](https://gym-developer.tistory.com/78) | [Servlet + JSP(MVC)](https://gym-developer.tistory.com/79) | [Ajax](https://gym-developer.tistory.com/80) | [DI/AOP](https://gym-developer.tistory.com/81) | [Ajax](https://gym-developer.tistory.com/82) |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [MVC DB+Ajax](https://gym-developer.tistory.com/83) | [SpringBoot DB Mybatis + Ajax](https://gym-developer.tistory.com/85) | [SpringBoot DB Board Mybatis + Ajax](https://gym-developer.tistory.com/86) | [Filter, Interceptor](https://gym-developer.tistory.com/87) |  [게시글 CRUD](https://gym-developer.tistory.com/88) |
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [MVC DB+Ajax](https://gym-developer.tistory.com/89) | [조회수/Pagination/Transaction/Exception Handling](https://gym-developer.tistory.com/90) | [JPA](https://gym-developer.tistory.com/91) | [JPA OneToOne/ManyToOne](https://gym-developer.tistory.com/92) | [JPA OneToMany/ManyToOne & OneToMany Bi-Directinal/ManyToManye](https://gym-developer.tistory.com/93) |
 
  | 14일 차 | 15일 차 |
- |---|---|
+ |:---:|:---:|
  | [JPQL(select/N+1/JPQL(join subquery)](https://gym-developer.tistory.com/94) | [JPQL Subquery/Order/Native Query](https://gym-developer.tistory.com/95) |
 
 </br>
@@ -126,11 +126,11 @@
 > 25.04.21 ~ 25.05.07
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [Page(HTML)/Json/CORS](https://gym-developer.tistory.com/97) | [Lombok/Spring Data JPA](https://gym-developer.tistory.com/98) | [HTML Login](https://gym-developer.tistory.com/99) | [HTML Register/JPQL DTO](https://gym-developer.tistory.com/101) | [REST](https://gym-developer.tistory.com/102) |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [ResponseEntity/Swagger](https://gym-developer.tistory.com/103) | [JUnit](https://gym-developer.tistory.com/104) | [JUnit/Logging](https://gym-developer.tistory.com/105) | [Spring Security](https://gym-developer.tistory.com/106) | [Spring Security/JWT](https://gym-developer.tistory.com/107) |
 
 </br>
@@ -140,7 +140,7 @@
 > 25.04.24
 
 | 1일 차 |
-|---|
+|:---:|
 | [취업 특강2](https://gym-developer.tistory.com/100) |
 
 </br>
@@ -150,11 +150,11 @@
 > 25.05.08 ~ 25.05.16
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [기획안 작성 및 화면 설계](https://gym-developer.tistory.com/108) | [Entity, Controller, Service 구현](https://gym-developer.tistory.com/109) | [무한 스크롤 구현](https://gym-developer.tistory.com/110) | [관리자 페이지 작업](https://gym-developer.tistory.com/111) | [테스트 코드 작성](https://gym-developer.tistory.com/112) |
 
 | 6일 차 | 7일 차 |
-|---|---|
+|:---:|:---:|
 | [테스트 코드 작성 및 최종 문서 작성](https://gym-developer.tistory.com/113) | [마무리](https://gym-developer.tistory.com/114) |
 
 
@@ -166,7 +166,7 @@
 > 25.05.19 ~ 25.05.23
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [Class Diagram](https://gym-developer.tistory.com/115) | [Use Case/Sequence Diagram](https://gym-developer.tistory.com/116) | [공통 코드](https://gym-developer.tistory.com/117) | [공통 코드](https://gym-developer.tistory.com/118) | [디자인 패턴, Slack API](https://gym-developer.tistory.com/118) |
 
 
@@ -177,7 +177,7 @@
 > 25.05.26 ~ 25.05.30
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [요구사항 정의서](https://gym-developer.tistory.com/122) | [요구사항 명세서](https://gym-developer.tistory.com/123) | [프로그램 정의서](https://gym-developer.tistory.com/130) | [휴가](https://gym-developer.tistory.com/125) | [Jira](https://gym-developer.tistory.com/126) |
 
 </br>
@@ -187,15 +187,15 @@
 > 25.06.02 ~ 25.06.24
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [프로젝트 분석](https://gym-developer.tistory.com/131) | [프로젝트 설계](https://gym-developer.tistory.com/132) | [개발 환경 세팅](https://gym-developer.tistory.com/133) | [스프린트 week2](https://gym-developer.tistory.com/134) | [개발](https://gym-developer.tistory.com/135) |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [개발](https://gym-developer.tistory.com/136) | [개발](https://gym-developer.tistory.com/137) | [개발 & 멘토링](https://gym-developer.tistory.com/138) | [개발](https://gym-developer.tistory.com/139) | [개발](https://gym-developer.tistory.com/140) |
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [취합](https://gym-developer.tistory.com/141) | [자료 정리](https://gym-developer.tistory.com/142) | [자료 정리](https://gym-developer.tistory.com/143) | [정리/제출](https://gym-developer.tistory.com/144) | [발표/시상](https://gym-developer.tistory.com/145) |
 
 </br>
@@ -205,7 +205,7 @@
 > 25.06.25 ~ 25.06.27
 
 | 1일 차 | 2일 차 | 3일 차 |
-|---|---|---|
+|:---:|:---:|:---:|
 | [클라우드 특강](https://gym-developer.tistory.com/147) | [클라우드 특강 (휴가)](https://gym-developer.tistory.com/148) | [클라우드 특강](https://gym-developer.tistory.com/149) |
 
 </br>
@@ -214,3 +214,15 @@
 > 프론트엔드 팀과 협업하여 (금융, 가족, 건강)등에 관련된 서비스/플랫폼을 기획하고 구현합니다.
 > 프로젝트를 구현하고, 배포 및 디버깅하여 최종 프로젝트를 산출합니다.  
 > 25.06.30 ~ 25.08.12
+
+| 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
+|:---:|:---:|:---:|:---:|:---:|
+| [회의]() | []() | []() | []() | []() |
+
+| 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
+|:---:|:---:|:---:|:---:|:---:|
+| []() | []() | []() | []() | []() |
+
+| 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
+|:---:|:---:|:---:|:---:|:---:|
+| []() | []() | []() | []() | []() |
