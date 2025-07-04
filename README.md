@@ -217,7 +217,7 @@
 
 | 1일 차 | 2일 차 | 3일 차 | 4일 차 | 5일 차 |
 |:---:|:---:|:---:|:---:|:---:|
-| [팀빌딩](https://gym-developer.tistory.com/150) | [프로젝트 분석](https://gym-developer.tistory.com/151) | [프로젝트 분석](https://gym-developer.tistory.com/151) | [프로젝트 분석](https://gym-developer.tistory.com/153) | []() |
+| [팀빌딩](https://gym-developer.tistory.com/150) | [프로젝트 분석](https://gym-developer.tistory.com/151) | [프로젝트 분석](https://gym-developer.tistory.com/151) | [프로젝트 분석](https://gym-developer.tistory.com/153) | [계획서/WBS 제출](https://gym-developer.tistory.com/154) |
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |:---:|:---:|:---:|:---:|:---:|
