@@ -221,7 +221,7 @@
 
 | 6일 차 | 7일 차 | 8일 차 | 9일 차 | 10일 차 |
 |:---:|:---:|:---:|:---:|:---:|
-| [멘토링](https://gym-developer.tistory.com/155) | [스프린트 회의](https://gym-developer.tistory.com/157) | [인프라 세팅](https://gym-developer.tistory.com/158) | []() | []() |
+| [멘토링](https://gym-developer.tistory.com/155) | [스프린트2 회의](https://gym-developer.tistory.com/157) | [인프라 세팅](https://gym-developer.tistory.com/158) | [인프라 세팅](https://gym-developer.tistory.com/159) | []() |
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
 |:---:|:---:|:---:|:---:|:---:|
