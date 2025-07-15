@@ -225,4 +225,4 @@
 
 | 11일 차 | 12일 차 | 13일 차 | 14일 차 | 15일 차 |
 |:---:|:---:|:---:|:---:|:---:|
-| [휴가](https://gym-developer.tistory.com/161) | []() | []() | []() | []() |
+| [휴가](https://gym-developer.tistory.com/161) | [프로젝트](https://gym-developer.tistory.com/162) | []() | []() | []() |
