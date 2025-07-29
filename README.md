@@ -233,4 +233,4 @@
 
 | 21일 차 | 22일 차 | 23일 차 | 24일 차 | 25일 차 |
 |:---:|:---:|:---:|:---:|:---:|
-| [스프린트5 회의](https://gym-developer.tistory.com/171) |  |  |  |  |
+| [스프린트5 회의](https://gym-developer.tistory.com/171) | [프로젝트 진행](https://gym-developer.tistory.com/172) |  |  |  |
