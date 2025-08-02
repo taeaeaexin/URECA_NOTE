@@ -234,3 +234,8 @@
 | 21일 차 | 22일 차 | 23일 차 | 24일 차 | 25일 차 |
 |:---:|:---:|:---:|:---:|:---:|
 | [스프린트5 회의](https://gym-developer.tistory.com/171) | [프로젝트 진행](https://gym-developer.tistory.com/172) | [프로젝트 진행](https://gym-developer.tistory.com/173) | [멘토링](https://gym-developer.tistory.com/174) | [프로젝트 진행](https://gym-developer.tistory.com/175) |
+
+| 26일 차 | 27일 차 | 28일 차 | 29일 차 | 30일 차 |
+|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
+
