@@ -237,5 +237,5 @@
 
 | 26일 차 | 27일 차 | 28일 차 | 29일 차 | 30일 차 |
 |:---:|:---:|:---:|:---:|:---:|
-| [프로젝트 진행](https://gym-developer.tistory.com/176) | [프로젝트 진행](https://gym-developer.tistory.com/177) | [프로젝트 진행](https://gym-developer.tistory.com/178) | [프로젝트 마감](https://gym-developer.tistory.com/179) |  |
+| [프로젝트 진행](https://gym-developer.tistory.com/176) | [프로젝트 진행](https://gym-developer.tistory.com/177) | [프로젝트 진행](https://gym-developer.tistory.com/178) | [프로젝트 마감](https://gym-developer.tistory.com/179) | [프로젝트 마감](https://gym-developer.tistory.com/180) |
 
