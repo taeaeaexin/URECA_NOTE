@@ -241,4 +241,4 @@
 
 | 31일 차 | 32일 차 |
 |:---:|:---:|
-| [휴가](https://gym-developer.tistory.com/185) |  |
+| [휴가](https://gym-developer.tistory.com/185) | [최종 경진대회]() |
